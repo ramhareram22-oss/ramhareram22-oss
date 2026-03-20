@@ -188,7 +188,7 @@ Tech Stack:
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ramhareram22-oss&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ramhareram22-oss&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
@@ -198,7 +198,7 @@ Tech Stack:
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramhareram22-oss&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=ramhareram22-oss&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -231,5 +231,17 @@ Tech Stack:
 *🦇 Gotham's finest developer. Currently haunting the halls of Data Structures.*
 
 </div>
+
+<!-- SNAKE GRID -->
+<picture  align="center">
+ 
+   <source media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 <!-- Proudly forged in the fires of the Batcave — with GPRM & dark inspiration -->
